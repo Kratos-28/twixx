@@ -16,7 +16,7 @@
       <nav class='w-full py-3 h-[60px] border-b border-zinc-50 bg-white backdrop-blur-lg z-30'>
           <div class='w-full px-6 flex justify-between mx-auto'>
               <div class='logo flex gap-3 items-center'>
-                  <router-link to="/"><img src="/logo.png" alt=""></router-link>
+                  <router-link to="/"><img src="/vite.svg" alt=""></router-link>
               </div>
               <div class='flex items-center gap-2'>
                   <OpenMenu class="w-8 h-8 cursor-pointer" @click="showMenu" />
